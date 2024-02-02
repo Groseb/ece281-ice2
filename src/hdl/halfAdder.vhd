@@ -11,7 +11,7 @@
 --| ---------------------------------------------------------------------------
 --|
 --| FILENAME      : halfAdder.vhd
---| AUTHOR(S)     : Capt Warner
+--| AUTHOR(S)     : Capt Warner, Georgina Buchanan
 --| CREATED       : 01/17/2017
 --| DESCRIPTION   : This file implements a one bit half adder.
 --|
@@ -23,7 +23,7 @@
 --|
 --|    Libraries : ieee
 --|    Packages  : std_logic_1164, numeric_std, unisim
---|    Files     : LIST ANY DEPENDENCIES
+--|    Files     : NONE
 --|
 --+----------------------------------------------------------------------------
 --|
